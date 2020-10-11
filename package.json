@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "clipboardy": "^2.3.0",
     "gifencoder": "^2.0.1"
   }
 }
